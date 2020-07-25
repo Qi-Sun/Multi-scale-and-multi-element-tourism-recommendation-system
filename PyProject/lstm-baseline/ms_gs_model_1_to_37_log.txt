@@ -1,0 +1,1216 @@
+Model 4 Start At 2020-04-18 12:38:38.585147Model 4 Start At 2020-04-18 12:38:38.585147
+layer_embed.weight : torch.Size([101, 8])
+layer_lstm.weight_ih_l0 : torch.Size([32, 8])
+layer_lstm.weight_hh_l0 : torch.Size([32, 8])
+layer_lstm.bias_ih_l0 : torch.Size([32])
+layer_lstm.bias_hh_l0 : torch.Size([32])
+layer_dense_predict.weight : torch.Size([101, 8])
+layer_dense_predict.bias : torch.Size([101])
+LSTMLM have 2293 paramerters in total
+cpu
+Epoch [1/400], Step[0/127], Loss: 4.7203, Perplexity: 112.21
+Better Dev Loss: 4.7209. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_1.mdl
+Epoch 0 Done
+Epoch [2/400], Step[0/127], Loss: 4.7168, Perplexity: 111.81
+Better Dev Loss: 4.7172. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_2.mdl
+Epoch 1 Done
+Epoch [3/400], Step[0/127], Loss: 4.7133, Perplexity: 111.42
+Better Dev Loss: 4.7136. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_3.mdl
+Epoch 2 Done
+Epoch [4/400], Step[0/127], Loss: 4.7098, Perplexity: 111.03
+Better Dev Loss: 4.7099. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_4.mdl
+Epoch 3 Done
+Epoch [5/400], Step[0/127], Loss: 4.7064, Perplexity: 110.65
+Better Dev Loss: 4.7062. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_5.mdl
+Epoch 4 Done
+Epoch [6/400], Step[0/127], Loss: 4.7029, Perplexity: 110.27
+Better Dev Loss: 4.7026. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_6.mdl
+Epoch 5 Done
+Epoch [7/400], Step[0/127], Loss: 4.6994, Perplexity: 109.88
+Better Dev Loss: 4.6989. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_7.mdl
+Epoch 6 Done
+Epoch [8/400], Step[0/127], Loss: 4.6959, Perplexity: 109.50
+Better Dev Loss: 4.6952. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_8.mdl
+Epoch 7 Done
+Epoch [9/400], Step[0/127], Loss: 4.6924, Perplexity: 109.12
+Better Dev Loss: 4.6915. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_9.mdl
+Epoch 8 Done
+Epoch [10/400], Step[0/127], Loss: 4.6889, Perplexity: 108.74
+Better Dev Loss: 4.6878. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_10.mdl
+Epoch 9 Done
+Epoch [11/400], Step[0/127], Loss: 4.6854, Perplexity: 108.36
+Better Dev Loss: 4.6841. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_11.mdl
+Epoch 10 Done
+Epoch [12/400], Step[0/127], Loss: 4.6819, Perplexity: 107.97
+Better Dev Loss: 4.6804. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_12.mdl
+Epoch 11 Done
+Epoch [13/400], Step[0/127], Loss: 4.6783, Perplexity: 107.59
+Better Dev Loss: 4.6766. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_13.mdl
+Epoch 12 Done
+Epoch [14/400], Step[0/127], Loss: 4.6747, Perplexity: 107.20
+Better Dev Loss: 4.6728. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_14.mdl
+Epoch 13 Done
+Epoch [15/400], Step[0/127], Loss: 4.6711, Perplexity: 106.81
+Better Dev Loss: 4.6689. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_15.mdl
+Epoch 14 Done
+Epoch [16/400], Step[0/127], Loss: 4.6674, Perplexity: 106.43
+Better Dev Loss: 4.6650. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_16.mdl
+Epoch 15 Done
+Epoch [17/400], Step[0/127], Loss: 4.6637, Perplexity: 106.03
+Better Dev Loss: 4.6611. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_17.mdl
+Epoch 16 Done
+Epoch [18/400], Step[0/127], Loss: 4.6600, Perplexity: 105.64
+Better Dev Loss: 4.6571. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_18.mdl
+Epoch 17 Done
+Epoch [19/400], Step[0/127], Loss: 4.6562, Perplexity: 105.24
+Better Dev Loss: 4.6531. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_19.mdl
+Epoch 18 Done
+Epoch [20/400], Step[0/127], Loss: 4.6524, Perplexity: 104.84
+Better Dev Loss: 4.6491. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_20.mdl
+Epoch 19 Done
+Epoch [21/400], Step[0/127], Loss: 4.6486, Perplexity: 104.44
+Better Dev Loss: 4.6449. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_21.mdl
+Epoch 20 Done
+Epoch [22/400], Step[0/127], Loss: 4.6447, Perplexity: 104.03
+Better Dev Loss: 4.6408. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_22.mdl
+Epoch 21 Done
+Epoch [23/400], Step[0/127], Loss: 4.6407, Perplexity: 103.62
+Better Dev Loss: 4.6365. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_23.mdl
+Epoch 22 Done
+Epoch [24/400], Step[0/127], Loss: 4.6367, Perplexity: 103.20
+Better Dev Loss: 4.6323. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_24.mdl
+Epoch 23 Done
+Epoch [25/400], Step[0/127], Loss: 4.6326, Perplexity: 102.78
+Better Dev Loss: 4.6279. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_25.mdl
+Epoch 24 Done
+Epoch [26/400], Step[0/127], Loss: 4.6284, Perplexity: 102.35
+Better Dev Loss: 4.6235. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_26.mdl
+Epoch 25 Done
+Epoch [27/400], Step[0/127], Loss: 4.6242, Perplexity: 101.92
+Better Dev Loss: 4.6190. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_27.mdl
+Epoch 26 Done
+Epoch [28/400], Step[0/127], Loss: 4.6200, Perplexity: 101.49
+Better Dev Loss: 4.6144. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_28.mdl
+Epoch 27 Done
+Epoch [29/400], Step[0/127], Loss: 4.6156, Perplexity: 101.05
+Better Dev Loss: 4.6098. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_29.mdl
+Epoch 28 Done
+Epoch [30/400], Step[0/127], Loss: 4.6112, Perplexity: 100.60
+Better Dev Loss: 4.6050. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_30.mdl
+Epoch 29 Done
+Epoch [31/400], Step[0/127], Loss: 4.6067, Perplexity: 100.15
+Better Dev Loss: 4.6002. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_31.mdl
+Epoch 30 Done
+Epoch [32/400], Step[0/127], Loss: 4.6021, Perplexity: 99.70
+Better Dev Loss: 4.5954. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_32.mdl
+Epoch 31 Done
+Epoch [33/400], Step[0/127], Loss: 4.5975, Perplexity: 99.23
+Better Dev Loss: 4.5904. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_33.mdl
+Epoch 32 Done
+Epoch [34/400], Step[0/127], Loss: 4.5927, Perplexity: 98.76
+Better Dev Loss: 4.5853. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_34.mdl
+Epoch 33 Done
+Epoch [35/400], Step[0/127], Loss: 4.5879, Perplexity: 98.29
+Better Dev Loss: 4.5802. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_35.mdl
+Epoch 34 Done
+Epoch [36/400], Step[0/127], Loss: 4.5830, Perplexity: 97.81
+Better Dev Loss: 4.5749. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_36.mdl
+Epoch 35 Done
+Epoch [37/400], Step[0/127], Loss: 4.5780, Perplexity: 97.32
+Better Dev Loss: 4.5696. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_37.mdl
+Epoch 36 Done
+Epoch [38/400], Step[0/127], Loss: 4.5729, Perplexity: 96.82
+Better Dev Loss: 4.5641. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_38.mdl
+Epoch 37 Done
+Epoch [39/400], Step[0/127], Loss: 4.5677, Perplexity: 96.32
+Better Dev Loss: 4.5586. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_39.mdl
+Epoch 38 Done
+Epoch [40/400], Step[0/127], Loss: 4.5624, Perplexity: 95.82
+Better Dev Loss: 4.5529. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_40.mdl
+Epoch 39 Done
+Epoch [41/400], Step[0/127], Loss: 4.5570, Perplexity: 95.30
+Better Dev Loss: 4.5472. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_41.mdl
+Epoch 40 Done
+Epoch [42/400], Step[0/127], Loss: 4.5516, Perplexity: 94.78
+Better Dev Loss: 4.5413. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_42.mdl
+Epoch 41 Done
+Epoch [43/400], Step[0/127], Loss: 4.5460, Perplexity: 94.25
+Better Dev Loss: 4.5354. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_43.mdl
+Epoch 42 Done
+Epoch [44/400], Step[0/127], Loss: 4.5403, Perplexity: 93.72
+Better Dev Loss: 4.5293. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_44.mdl
+Epoch 43 Done
+Epoch [45/400], Step[0/127], Loss: 4.5345, Perplexity: 93.18
+Better Dev Loss: 4.5231. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_45.mdl
+Epoch 44 Done
+Epoch [46/400], Step[0/127], Loss: 4.5286, Perplexity: 92.63
+Better Dev Loss: 4.5169. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_46.mdl
+Epoch 45 Done
+Epoch [47/400], Step[0/127], Loss: 4.5226, Perplexity: 92.08
+Better Dev Loss: 4.5105. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_47.mdl
+Epoch 46 Done
+Epoch [48/400], Step[0/127], Loss: 4.5165, Perplexity: 91.52
+Better Dev Loss: 4.5040. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_48.mdl
+Epoch 47 Done
+Epoch [49/400], Step[0/127], Loss: 4.5103, Perplexity: 90.95
+Better Dev Loss: 4.4974. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_49.mdl
+Epoch 48 Done
+Epoch [50/400], Step[0/127], Loss: 4.5040, Perplexity: 90.38
+Better Dev Loss: 4.4907. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_50.mdl
+Epoch 49 Done
+Epoch [51/400], Step[0/127], Loss: 4.4976, Perplexity: 89.81
+Better Dev Loss: 4.4839. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_51.mdl
+Epoch 50 Done
+Epoch [52/400], Step[0/127], Loss: 4.4911, Perplexity: 89.22
+Better Dev Loss: 4.4770. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_52.mdl
+Epoch 51 Done
+Epoch [53/400], Step[0/127], Loss: 4.4845, Perplexity: 88.64
+Better Dev Loss: 4.4699. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_53.mdl
+Epoch 52 Done
+Epoch [54/400], Step[0/127], Loss: 4.4778, Perplexity: 88.04
+Better Dev Loss: 4.4628. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_54.mdl
+Epoch 53 Done
+Epoch [55/400], Step[0/127], Loss: 4.4710, Perplexity: 87.45
+Better Dev Loss: 4.4556. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_55.mdl
+Epoch 54 Done
+Epoch [56/400], Step[0/127], Loss: 4.4641, Perplexity: 86.85
+Better Dev Loss: 4.4482. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_56.mdl
+Epoch 55 Done
+Epoch [57/400], Step[0/127], Loss: 4.4571, Perplexity: 86.24
+Better Dev Loss: 4.4408. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_57.mdl
+Epoch 56 Done
+Epoch [58/400], Step[0/127], Loss: 4.4500, Perplexity: 85.63
+Better Dev Loss: 4.4332. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_58.mdl
+Epoch 57 Done
+Epoch [59/400], Step[0/127], Loss: 4.4429, Perplexity: 85.02
+Better Dev Loss: 4.4256. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_59.mdl
+Epoch 58 Done
+Epoch [60/400], Step[0/127], Loss: 4.4356, Perplexity: 84.40
+Better Dev Loss: 4.4179. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_60.mdl
+Epoch 59 Done
+Epoch [61/400], Step[0/127], Loss: 4.4282, Perplexity: 83.78
+Better Dev Loss: 4.4100. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_61.mdl
+Epoch 60 Done
+Epoch [62/400], Step[0/127], Loss: 4.4208, Perplexity: 83.16
+Better Dev Loss: 4.4021. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_62.mdl
+Epoch 61 Done
+Epoch [63/400], Step[0/127], Loss: 4.4132, Perplexity: 82.54
+Better Dev Loss: 4.3941. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_63.mdl
+Epoch 62 Done
+Epoch [64/400], Step[0/127], Loss: 4.4056, Perplexity: 81.91
+Better Dev Loss: 4.3861. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_64.mdl
+Epoch 63 Done
+Epoch [65/400], Step[0/127], Loss: 4.3980, Perplexity: 81.29
+Better Dev Loss: 4.3779. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_65.mdl
+Epoch 64 Done
+Epoch [66/400], Step[0/127], Loss: 4.3902, Perplexity: 80.66
+Better Dev Loss: 4.3697. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_66.mdl
+Epoch 65 Done
+Epoch [67/400], Step[0/127], Loss: 4.3824, Perplexity: 80.03
+Better Dev Loss: 4.3614. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_67.mdl
+Epoch 66 Done
+Epoch [68/400], Step[0/127], Loss: 4.3745, Perplexity: 79.40
+Better Dev Loss: 4.3530. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_68.mdl
+Epoch 67 Done
+Epoch [69/400], Step[0/127], Loss: 4.3666, Perplexity: 78.78
+Better Dev Loss: 4.3446. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_69.mdl
+Epoch 68 Done
+Epoch [70/400], Step[0/127], Loss: 4.3586, Perplexity: 78.15
+Better Dev Loss: 4.3361. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_70.mdl
+Epoch 69 Done
+Epoch [71/400], Step[0/127], Loss: 4.3506, Perplexity: 77.53
+Better Dev Loss: 4.3276. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_71.mdl
+Epoch 70 Done
+Epoch [72/400], Step[0/127], Loss: 4.3425, Perplexity: 76.90
+Better Dev Loss: 4.3191. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_72.mdl
+Epoch 71 Done
+Epoch [73/400], Step[0/127], Loss: 4.3345, Perplexity: 76.28
+Better Dev Loss: 4.3105. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_73.mdl
+Epoch 72 Done
+Epoch [74/400], Step[0/127], Loss: 4.3263, Perplexity: 75.67
+Better Dev Loss: 4.3019. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_74.mdl
+Epoch 73 Done
+Epoch [75/400], Step[0/127], Loss: 4.3182, Perplexity: 75.05
+Better Dev Loss: 4.2932. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_75.mdl
+Epoch 74 Done
+Epoch [76/400], Step[0/127], Loss: 4.3100, Perplexity: 74.44
+Better Dev Loss: 4.2846. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_76.mdl
+Epoch 75 Done
+Epoch [77/400], Step[0/127], Loss: 4.3018, Perplexity: 73.83
+Better Dev Loss: 4.2759. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_77.mdl
+Epoch 76 Done
+Epoch [78/400], Step[0/127], Loss: 4.2936, Perplexity: 73.23
+Better Dev Loss: 4.2672. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_78.mdl
+Epoch 77 Done
+Epoch [79/400], Step[0/127], Loss: 4.2854, Perplexity: 72.63
+Better Dev Loss: 4.2584. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_79.mdl
+Epoch 78 Done
+Epoch [80/400], Step[0/127], Loss: 4.2771, Perplexity: 72.03
+Better Dev Loss: 4.2497. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_80.mdl
+Epoch 79 Done
+Epoch [81/400], Step[0/127], Loss: 4.2688, Perplexity: 71.44
+Better Dev Loss: 4.2409. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_81.mdl
+Epoch 80 Done
+Epoch [82/400], Step[0/127], Loss: 4.2606, Perplexity: 70.85
+Better Dev Loss: 4.2322. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_82.mdl
+Epoch 81 Done
+Epoch [83/400], Step[0/127], Loss: 4.2523, Perplexity: 70.27
+Better Dev Loss: 4.2234. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_83.mdl
+Epoch 82 Done
+Epoch [84/400], Step[0/127], Loss: 4.2440, Perplexity: 69.69
+Better Dev Loss: 4.2146. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_84.mdl
+Epoch 83 Done
+Epoch [85/400], Step[0/127], Loss: 4.2357, Perplexity: 69.11
+Better Dev Loss: 4.2059. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_85.mdl
+Epoch 84 Done
+Epoch [86/400], Step[0/127], Loss: 4.2274, Perplexity: 68.54
+Better Dev Loss: 4.1971. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_86.mdl
+Epoch 85 Done
+Epoch [87/400], Step[0/127], Loss: 4.2192, Perplexity: 67.98
+Better Dev Loss: 4.1883. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_87.mdl
+Epoch 86 Done
+Epoch [88/400], Step[0/127], Loss: 4.2109, Perplexity: 67.41
+Better Dev Loss: 4.1795. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_88.mdl
+Epoch 87 Done
+Epoch [89/400], Step[0/127], Loss: 4.2026, Perplexity: 66.86
+Better Dev Loss: 4.1708. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_89.mdl
+Epoch 88 Done
+Epoch [90/400], Step[0/127], Loss: 4.1943, Perplexity: 66.30
+Better Dev Loss: 4.1620. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_90.mdl
+Epoch 89 Done
+Epoch [91/400], Step[0/127], Loss: 4.1860, Perplexity: 65.76
+Better Dev Loss: 4.1532. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_91.mdl
+Epoch 90 Done
+Epoch [92/400], Step[0/127], Loss: 4.1777, Perplexity: 65.21
+Better Dev Loss: 4.1444. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_92.mdl
+Epoch 91 Done
+Epoch [93/400], Step[0/127], Loss: 4.1694, Perplexity: 64.67
+Better Dev Loss: 4.1357. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_93.mdl
+Epoch 92 Done
+Epoch [94/400], Step[0/127], Loss: 4.1611, Perplexity: 64.14
+Better Dev Loss: 4.1269. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_94.mdl
+Epoch 93 Done
+Epoch [95/400], Step[0/127], Loss: 4.1528, Perplexity: 63.61
+Better Dev Loss: 4.1181. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_95.mdl
+Epoch 94 Done
+Epoch [96/400], Step[0/127], Loss: 4.1445, Perplexity: 63.09
+Better Dev Loss: 4.1094. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_96.mdl
+Epoch 95 Done
+Epoch [97/400], Step[0/127], Loss: 4.1362, Perplexity: 62.57
+Better Dev Loss: 4.1006. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_97.mdl
+Epoch 96 Done
+Epoch [98/400], Step[0/127], Loss: 4.1279, Perplexity: 62.05
+Better Dev Loss: 4.0919. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_98.mdl
+Epoch 97 Done
+Epoch [99/400], Step[0/127], Loss: 4.1197, Perplexity: 61.54
+Better Dev Loss: 4.0831. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_99.mdl
+Epoch 98 Done
+Epoch [100/400], Step[0/127], Loss: 4.1114, Perplexity: 61.03
+Better Dev Loss: 4.0744. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_100.mdl
+Epoch 99 Done
+Epoch [101/400], Step[0/127], Loss: 4.1031, Perplexity: 60.53
+Better Dev Loss: 4.0657. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_101.mdl
+Epoch 100 Done
+Epoch [102/400], Step[0/127], Loss: 4.0949, Perplexity: 60.03
+Better Dev Loss: 4.0570. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_102.mdl
+Epoch 101 Done
+Epoch [103/400], Step[0/127], Loss: 4.0866, Perplexity: 59.54
+Better Dev Loss: 4.0483. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_103.mdl
+Epoch 102 Done
+Epoch [104/400], Step[0/127], Loss: 4.0784, Perplexity: 59.05
+Better Dev Loss: 4.0397. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_104.mdl
+Epoch 103 Done
+Epoch [105/400], Step[0/127], Loss: 4.0702, Perplexity: 58.57
+Better Dev Loss: 4.0310. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_105.mdl
+Epoch 104 Done
+Epoch [106/400], Step[0/127], Loss: 4.0620, Perplexity: 58.09
+Better Dev Loss: 4.0224. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_106.mdl
+Epoch 105 Done
+Epoch [107/400], Step[0/127], Loss: 4.0538, Perplexity: 57.62
+Better Dev Loss: 4.0137. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_107.mdl
+Epoch 106 Done
+Epoch [108/400], Step[0/127], Loss: 4.0456, Perplexity: 57.15
+Better Dev Loss: 4.0051. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_108.mdl
+Epoch 107 Done
+Epoch [109/400], Step[0/127], Loss: 4.0375, Perplexity: 56.68
+Better Dev Loss: 3.9965. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_109.mdl
+Epoch 108 Done
+Epoch [110/400], Step[0/127], Loss: 4.0293, Perplexity: 56.22
+Better Dev Loss: 3.9880. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_110.mdl
+Epoch 109 Done
+Epoch [111/400], Step[0/127], Loss: 4.0212, Perplexity: 55.77
+Better Dev Loss: 3.9794. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_111.mdl
+Epoch 110 Done
+Epoch [112/400], Step[0/127], Loss: 4.0131, Perplexity: 55.32
+Better Dev Loss: 3.9709. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_112.mdl
+Epoch 111 Done
+Epoch [113/400], Step[0/127], Loss: 4.0050, Perplexity: 54.87
+Better Dev Loss: 3.9624. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_113.mdl
+Epoch 112 Done
+Epoch [114/400], Step[0/127], Loss: 3.9969, Perplexity: 54.43
+Better Dev Loss: 3.9539. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_114.mdl
+Epoch 113 Done
+Epoch [115/400], Step[0/127], Loss: 3.9888, Perplexity: 53.99
+Better Dev Loss: 3.9455. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_115.mdl
+Epoch 114 Done
+Epoch [116/400], Step[0/127], Loss: 3.9808, Perplexity: 53.56
+Better Dev Loss: 3.9371. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_116.mdl
+Epoch 115 Done
+Epoch [117/400], Step[0/127], Loss: 3.9728, Perplexity: 53.13
+Better Dev Loss: 3.9287. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_117.mdl
+Epoch 116 Done
+Epoch [118/400], Step[0/127], Loss: 3.9647, Perplexity: 52.71
+Better Dev Loss: 3.9203. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_118.mdl
+Epoch 117 Done
+Epoch [119/400], Step[0/127], Loss: 3.9568, Perplexity: 52.29
+Better Dev Loss: 3.9119. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_119.mdl
+Epoch 118 Done
+Epoch [120/400], Step[0/127], Loss: 3.9488, Perplexity: 51.87
+Better Dev Loss: 3.9036. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_120.mdl
+Epoch 119 Done
+Epoch [121/400], Step[0/127], Loss: 3.9409, Perplexity: 51.46
+Better Dev Loss: 3.8953. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_121.mdl
+Epoch 120 Done
+Epoch [122/400], Step[0/127], Loss: 3.9330, Perplexity: 51.06
+Better Dev Loss: 3.8871. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_122.mdl
+Epoch 121 Done
+Epoch [123/400], Step[0/127], Loss: 3.9251, Perplexity: 50.66
+Better Dev Loss: 3.8788. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_123.mdl
+Epoch 122 Done
+Epoch [124/400], Step[0/127], Loss: 3.9172, Perplexity: 50.26
+Better Dev Loss: 3.8706. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_124.mdl
+Epoch 123 Done
+Epoch [125/400], Step[0/127], Loss: 3.9094, Perplexity: 49.87
+Better Dev Loss: 3.8625. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_125.mdl
+Epoch 124 Done
+Epoch [126/400], Step[0/127], Loss: 3.9015, Perplexity: 49.48
+Better Dev Loss: 3.8543. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_126.mdl
+Epoch 125 Done
+Epoch [127/400], Step[0/127], Loss: 3.8938, Perplexity: 49.09
+Better Dev Loss: 3.8462. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_127.mdl
+Epoch 126 Done
+Epoch [128/400], Step[0/127], Loss: 3.8860, Perplexity: 48.72
+Better Dev Loss: 3.8382. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_128.mdl
+Epoch 127 Done
+Epoch [129/400], Step[0/127], Loss: 3.8783, Perplexity: 48.34
+Better Dev Loss: 3.8301. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_129.mdl
+Epoch 128 Done
+Epoch [130/400], Step[0/127], Loss: 3.8705, Perplexity: 47.97
+Better Dev Loss: 3.8221. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_130.mdl
+Epoch 129 Done
+Epoch [131/400], Step[0/127], Loss: 3.8629, Perplexity: 47.60
+Better Dev Loss: 3.8141. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_131.mdl
+Epoch 130 Done
+Epoch [132/400], Step[0/127], Loss: 3.8552, Perplexity: 47.24
+Better Dev Loss: 3.8062. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_132.mdl
+Epoch 131 Done
+Epoch [133/400], Step[0/127], Loss: 3.8476, Perplexity: 46.88
+Better Dev Loss: 3.7983. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_133.mdl
+Epoch 132 Done
+Epoch [134/400], Step[0/127], Loss: 3.8400, Perplexity: 46.53
+Better Dev Loss: 3.7904. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_134.mdl
+Epoch 133 Done
+Epoch [135/400], Step[0/127], Loss: 3.8324, Perplexity: 46.18
+Better Dev Loss: 3.7826. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_135.mdl
+Epoch 134 Done
+Epoch [136/400], Step[0/127], Loss: 3.8249, Perplexity: 45.83
+Better Dev Loss: 3.7748. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_136.mdl
+Epoch 135 Done
+Epoch [137/400], Step[0/127], Loss: 3.8174, Perplexity: 45.49
+Better Dev Loss: 3.7671. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_137.mdl
+Epoch 136 Done
+Epoch [138/400], Step[0/127], Loss: 3.8099, Perplexity: 45.15
+Better Dev Loss: 3.7593. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_138.mdl
+Epoch 137 Done
+Epoch [139/400], Step[0/127], Loss: 3.8025, Perplexity: 44.81
+Better Dev Loss: 3.7517. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_139.mdl
+Epoch 138 Done
+Epoch [140/400], Step[0/127], Loss: 3.7951, Perplexity: 44.48
+Better Dev Loss: 3.7440. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_140.mdl
+Epoch 139 Done
+Epoch [141/400], Step[0/127], Loss: 3.7877, Perplexity: 44.16
+Better Dev Loss: 3.7364. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_141.mdl
+Epoch 140 Done
+Epoch [142/400], Step[0/127], Loss: 3.7804, Perplexity: 43.83
+Better Dev Loss: 3.7288. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_142.mdl
+Epoch 141 Done
+Epoch [143/400], Step[0/127], Loss: 3.7731, Perplexity: 43.52
+Better Dev Loss: 3.7213. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_143.mdl
+Epoch 142 Done
+Epoch [144/400], Step[0/127], Loss: 3.7659, Perplexity: 43.20
+Better Dev Loss: 3.7138. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_144.mdl
+Epoch 143 Done
+Epoch [145/400], Step[0/127], Loss: 3.7586, Perplexity: 42.89
+Better Dev Loss: 3.7064. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_145.mdl
+Epoch 144 Done
+Epoch [146/400], Step[0/127], Loss: 3.7514, Perplexity: 42.58
+Better Dev Loss: 3.6990. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_146.mdl
+Epoch 145 Done
+Epoch [147/400], Step[0/127], Loss: 3.7443, Perplexity: 42.28
+Better Dev Loss: 3.6916. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_147.mdl
+Epoch 146 Done
+Epoch [148/400], Step[0/127], Loss: 3.7372, Perplexity: 41.98
+Better Dev Loss: 3.6843. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_148.mdl
+Epoch 147 Done
+Epoch [149/400], Step[0/127], Loss: 3.7301, Perplexity: 41.68
+Better Dev Loss: 3.6770. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_149.mdl
+Epoch 148 Done
+Epoch [150/400], Step[0/127], Loss: 3.7230, Perplexity: 41.39
+Better Dev Loss: 3.6698. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_150.mdl
+Epoch 149 Done
+Epoch [151/400], Step[0/127], Loss: 3.7160, Perplexity: 41.10
+Better Dev Loss: 3.6626. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_151.mdl
+Epoch 150 Done
+Epoch [152/400], Step[0/127], Loss: 3.7091, Perplexity: 40.82
+Better Dev Loss: 3.6554. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_152.mdl
+Epoch 151 Done
+Epoch [153/400], Step[0/127], Loss: 3.7022, Perplexity: 40.53
+Better Dev Loss: 3.6483. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_153.mdl
+Epoch 152 Done
+Epoch [154/400], Step[0/127], Loss: 3.6953, Perplexity: 40.26
+Better Dev Loss: 3.6413. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_154.mdl
+Epoch 153 Done
+Epoch [155/400], Step[0/127], Loss: 3.6884, Perplexity: 39.98
+Better Dev Loss: 3.6342. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_155.mdl
+Epoch 154 Done
+Epoch [156/400], Step[0/127], Loss: 3.6816, Perplexity: 39.71
+Better Dev Loss: 3.6273. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_156.mdl
+Epoch 155 Done
+Epoch [157/400], Step[0/127], Loss: 3.6749, Perplexity: 39.44
+Better Dev Loss: 3.6203. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_157.mdl
+Epoch 156 Done
+Epoch [158/400], Step[0/127], Loss: 3.6682, Perplexity: 39.18
+Better Dev Loss: 3.6134. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_158.mdl
+Epoch 157 Done
+Epoch [159/400], Step[0/127], Loss: 3.6615, Perplexity: 38.92
+Better Dev Loss: 3.6066. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_159.mdl
+Epoch 158 Done
+Epoch [160/400], Step[0/127], Loss: 3.6548, Perplexity: 38.66
+Better Dev Loss: 3.5998. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_160.mdl
+Epoch 159 Done
+Epoch [161/400], Step[0/127], Loss: 3.6482, Perplexity: 38.41
+Better Dev Loss: 3.5930. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_161.mdl
+Epoch 160 Done
+Epoch [162/400], Step[0/127], Loss: 3.6417, Perplexity: 38.16
+Better Dev Loss: 3.5863. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_162.mdl
+Epoch 161 Done
+Epoch [163/400], Step[0/127], Loss: 3.6352, Perplexity: 37.91
+Better Dev Loss: 3.5797. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_163.mdl
+Epoch 162 Done
+Epoch [164/400], Step[0/127], Loss: 3.6287, Perplexity: 37.66
+Better Dev Loss: 3.5730. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_164.mdl
+Epoch 163 Done
+Epoch [165/400], Step[0/127], Loss: 3.6223, Perplexity: 37.42
+Better Dev Loss: 3.5665. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_165.mdl
+Epoch 164 Done
+Epoch [166/400], Step[0/127], Loss: 3.6159, Perplexity: 37.19
+Better Dev Loss: 3.5599. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_166.mdl
+Epoch 165 Done
+Epoch [167/400], Step[0/127], Loss: 3.6096, Perplexity: 36.95
+Better Dev Loss: 3.5534. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_167.mdl
+Epoch 166 Done
+Epoch [168/400], Step[0/127], Loss: 3.6033, Perplexity: 36.72
+Better Dev Loss: 3.5470. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_168.mdl
+Epoch 167 Done
+Epoch [169/400], Step[0/127], Loss: 3.5970, Perplexity: 36.49
+Better Dev Loss: 3.5406. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_169.mdl
+Epoch 168 Done
+Epoch [170/400], Step[0/127], Loss: 3.5908, Perplexity: 36.26
+Better Dev Loss: 3.5343. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_170.mdl
+Epoch 169 Done
+Epoch [171/400], Step[0/127], Loss: 3.5847, Perplexity: 36.04
+Better Dev Loss: 3.5280. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_171.mdl
+Epoch 170 Done
+Epoch [172/400], Step[0/127], Loss: 3.5785, Perplexity: 35.82
+Better Dev Loss: 3.5217. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_172.mdl
+Epoch 171 Done
+Epoch [173/400], Step[0/127], Loss: 3.5725, Perplexity: 35.60
+Better Dev Loss: 3.5155. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_173.mdl
+Epoch 172 Done
+Epoch [174/400], Step[0/127], Loss: 3.5664, Perplexity: 35.39
+Better Dev Loss: 3.5093. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_174.mdl
+Epoch 173 Done
+Epoch [175/400], Step[0/127], Loss: 3.5604, Perplexity: 35.18
+Better Dev Loss: 3.5032. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_175.mdl
+Epoch 174 Done
+Epoch [176/400], Step[0/127], Loss: 3.5545, Perplexity: 34.97
+Better Dev Loss: 3.4972. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_176.mdl
+Epoch 175 Done
+Epoch [177/400], Step[0/127], Loss: 3.5486, Perplexity: 34.76
+Better Dev Loss: 3.4911. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_177.mdl
+Epoch 176 Done
+Epoch [178/400], Step[0/127], Loss: 3.5427, Perplexity: 34.56
+Better Dev Loss: 3.4852. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_178.mdl
+Epoch 177 Done
+Epoch [179/400], Step[0/127], Loss: 3.5369, Perplexity: 34.36
+Better Dev Loss: 3.4792. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_179.mdl
+Epoch 178 Done
+Epoch [180/400], Step[0/127], Loss: 3.5311, Perplexity: 34.16
+Better Dev Loss: 3.4733. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_180.mdl
+Epoch 179 Done
+Epoch [181/400], Step[0/127], Loss: 3.5254, Perplexity: 33.97
+Better Dev Loss: 3.4675. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_181.mdl
+Epoch 180 Done
+Epoch [182/400], Step[0/127], Loss: 3.5197, Perplexity: 33.77
+Better Dev Loss: 3.4617. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_182.mdl
+Epoch 181 Done
+Epoch [183/400], Step[0/127], Loss: 3.5141, Perplexity: 33.58
+Better Dev Loss: 3.4559. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_183.mdl
+Epoch 182 Done
+Epoch [184/400], Step[0/127], Loss: 3.5085, Perplexity: 33.40
+Better Dev Loss: 3.4502. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_184.mdl
+Epoch 183 Done
+Epoch [185/400], Step[0/127], Loss: 3.5029, Perplexity: 33.21
+Better Dev Loss: 3.4446. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_185.mdl
+Epoch 184 Done
+Epoch [186/400], Step[0/127], Loss: 3.4974, Perplexity: 33.03
+Better Dev Loss: 3.4389. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_186.mdl
+Epoch 185 Done
+Epoch [187/400], Step[0/127], Loss: 3.4919, Perplexity: 32.85
+Better Dev Loss: 3.4334. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_187.mdl
+Epoch 186 Done
+Epoch [188/400], Step[0/127], Loss: 3.4865, Perplexity: 32.67
+Better Dev Loss: 3.4278. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_188.mdl
+Epoch 187 Done
+Epoch [189/400], Step[0/127], Loss: 3.4811, Perplexity: 32.49
+Better Dev Loss: 3.4223. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_189.mdl
+Epoch 188 Done
+Epoch [190/400], Step[0/127], Loss: 3.4757, Perplexity: 32.32
+Better Dev Loss: 3.4169. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_190.mdl
+Epoch 189 Done
+Epoch [191/400], Step[0/127], Loss: 3.4704, Perplexity: 32.15
+Better Dev Loss: 3.4115. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_191.mdl
+Epoch 190 Done
+Epoch [192/400], Step[0/127], Loss: 3.4651, Perplexity: 31.98
+Better Dev Loss: 3.4061. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_192.mdl
+Epoch 191 Done
+Epoch [193/400], Step[0/127], Loss: 3.4599, Perplexity: 31.81
+Better Dev Loss: 3.4008. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_193.mdl
+Epoch 192 Done
+Epoch [194/400], Step[0/127], Loss: 3.4547, Perplexity: 31.65
+Better Dev Loss: 3.3955. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_194.mdl
+Epoch 193 Done
+Epoch [195/400], Step[0/127], Loss: 3.4495, Perplexity: 31.48
+Better Dev Loss: 3.3902. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_195.mdl
+Epoch 194 Done
+Epoch [196/400], Step[0/127], Loss: 3.4444, Perplexity: 31.32
+Better Dev Loss: 3.3850. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_196.mdl
+Epoch 195 Done
+Epoch [197/400], Step[0/127], Loss: 3.4393, Perplexity: 31.16
+Better Dev Loss: 3.3799. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_197.mdl
+Epoch 196 Done
+Epoch [198/400], Step[0/127], Loss: 3.4342, Perplexity: 31.01
+Better Dev Loss: 3.3747. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_198.mdl
+Epoch 197 Done
+Epoch [199/400], Step[0/127], Loss: 3.4292, Perplexity: 30.85
+Better Dev Loss: 3.3696. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_199.mdl
+Epoch 198 Done
+Epoch [200/400], Step[0/127], Loss: 3.4242, Perplexity: 30.70
+Better Dev Loss: 3.3646. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_200.mdl
+Epoch 199 Done
+Epoch [201/400], Step[0/127], Loss: 3.4193, Perplexity: 30.55
+Better Dev Loss: 3.3595. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_201.mdl
+Epoch 200 Done
+Epoch [202/400], Step[0/127], Loss: 3.4143, Perplexity: 30.40
+Better Dev Loss: 3.3546. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_202.mdl
+Epoch 201 Done
+Epoch [203/400], Step[0/127], Loss: 3.4095, Perplexity: 30.25
+Better Dev Loss: 3.3496. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_203.mdl
+Epoch 202 Done
+Epoch [204/400], Step[0/127], Loss: 3.4046, Perplexity: 30.10
+Better Dev Loss: 3.3447. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_204.mdl
+Epoch 203 Done
+Epoch [205/400], Step[0/127], Loss: 3.3998, Perplexity: 29.96
+Better Dev Loss: 3.3398. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_205.mdl
+Epoch 204 Done
+Epoch [206/400], Step[0/127], Loss: 3.3950, Perplexity: 29.82
+Better Dev Loss: 3.3350. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_206.mdl
+Epoch 205 Done
+Epoch [207/400], Step[0/127], Loss: 3.3903, Perplexity: 29.67
+Better Dev Loss: 3.3302. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_207.mdl
+Epoch 206 Done
+Epoch [208/400], Step[0/127], Loss: 3.3856, Perplexity: 29.53
+Better Dev Loss: 3.3254. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_208.mdl
+Epoch 207 Done
+Epoch [209/400], Step[0/127], Loss: 3.3809, Perplexity: 29.40
+Better Dev Loss: 3.3206. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_209.mdl
+Epoch 208 Done
+Epoch [210/400], Step[0/127], Loss: 3.3762, Perplexity: 29.26
+Better Dev Loss: 3.3159. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_210.mdl
+Epoch 209 Done
+Epoch [211/400], Step[0/127], Loss: 3.3716, Perplexity: 29.13
+Better Dev Loss: 3.3113. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_211.mdl
+Epoch 210 Done
+Epoch [212/400], Step[0/127], Loss: 3.3670, Perplexity: 28.99
+Better Dev Loss: 3.3066. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_212.mdl
+Epoch 211 Done
+Epoch [213/400], Step[0/127], Loss: 3.3625, Perplexity: 28.86
+Better Dev Loss: 3.3020. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_213.mdl
+Epoch 212 Done
+Epoch [214/400], Step[0/127], Loss: 3.3580, Perplexity: 28.73
+Better Dev Loss: 3.2975. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_214.mdl
+Epoch 213 Done
+Epoch [215/400], Step[0/127], Loss: 3.3535, Perplexity: 28.60
+Better Dev Loss: 3.2929. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_215.mdl
+Epoch 214 Done
+Epoch [216/400], Step[0/127], Loss: 3.3490, Perplexity: 28.48
+Better Dev Loss: 3.2884. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_216.mdl
+Epoch 215 Done
+Epoch [217/400], Step[0/127], Loss: 3.3446, Perplexity: 28.35
+Better Dev Loss: 3.2840. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_217.mdl
+Epoch 216 Done
+Epoch [218/400], Step[0/127], Loss: 3.3402, Perplexity: 28.23
+Better Dev Loss: 3.2795. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_218.mdl
+Epoch 217 Done
+Epoch [219/400], Step[0/127], Loss: 3.3359, Perplexity: 28.10
+Better Dev Loss: 3.2751. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_219.mdl
+Epoch 218 Done
+Epoch [220/400], Step[0/127], Loss: 3.3316, Perplexity: 27.98
+Better Dev Loss: 3.2708. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_220.mdl
+Epoch 219 Done
+Epoch [221/400], Step[0/127], Loss: 3.3273, Perplexity: 27.86
+Better Dev Loss: 3.2664. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_221.mdl
+Epoch 220 Done
+Epoch [222/400], Step[0/127], Loss: 3.3230, Perplexity: 27.74
+Better Dev Loss: 3.2621. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_222.mdl
+Epoch 221 Done
+Epoch [223/400], Step[0/127], Loss: 3.3188, Perplexity: 27.63
+Better Dev Loss: 3.2578. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_223.mdl
+Epoch 222 Done
+Epoch [224/400], Step[0/127], Loss: 3.3146, Perplexity: 27.51
+Better Dev Loss: 3.2536. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_224.mdl
+Epoch 223 Done
+Epoch [225/400], Step[0/127], Loss: 3.3104, Perplexity: 27.40
+Better Dev Loss: 3.2494. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_225.mdl
+Epoch 224 Done
+Epoch [226/400], Step[0/127], Loss: 3.3063, Perplexity: 27.28
+Better Dev Loss: 3.2452. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_226.mdl
+Epoch 225 Done
+Epoch [227/400], Step[0/127], Loss: 3.3022, Perplexity: 27.17
+Better Dev Loss: 3.2411. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_227.mdl
+Epoch 226 Done
+Epoch [228/400], Step[0/127], Loss: 3.2981, Perplexity: 27.06
+Better Dev Loss: 3.2370. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_228.mdl
+Epoch 227 Done
+Epoch [229/400], Step[0/127], Loss: 3.2941, Perplexity: 26.95
+Better Dev Loss: 3.2329. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_229.mdl
+Epoch 228 Done
+Epoch [230/400], Step[0/127], Loss: 3.2901, Perplexity: 26.84
+Better Dev Loss: 3.2289. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_230.mdl
+Epoch 229 Done
+Epoch [231/400], Step[0/127], Loss: 3.2861, Perplexity: 26.74
+Better Dev Loss: 3.2249. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_231.mdl
+Epoch 230 Done
+Epoch [232/400], Step[0/127], Loss: 3.2821, Perplexity: 26.63
+Better Dev Loss: 3.2209. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_232.mdl
+Epoch 231 Done
+Epoch [233/400], Step[0/127], Loss: 3.2782, Perplexity: 26.53
+Better Dev Loss: 3.2170. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_233.mdl
+Epoch 232 Done
+Epoch [234/400], Step[0/127], Loss: 3.2744, Perplexity: 26.43
+Better Dev Loss: 3.2131. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_234.mdl
+Epoch 233 Done
+Epoch [235/400], Step[0/127], Loss: 3.2705, Perplexity: 26.32
+Better Dev Loss: 3.2092. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_235.mdl
+Epoch 234 Done
+Epoch [236/400], Step[0/127], Loss: 3.2667, Perplexity: 26.22
+Better Dev Loss: 3.2053. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_236.mdl
+Epoch 235 Done
+Epoch [237/400], Step[0/127], Loss: 3.2629, Perplexity: 26.13
+Better Dev Loss: 3.2015. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_237.mdl
+Epoch 236 Done
+Epoch [238/400], Step[0/127], Loss: 3.2591, Perplexity: 26.03
+Better Dev Loss: 3.1977. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_238.mdl
+Epoch 237 Done
+Epoch [239/400], Step[0/127], Loss: 3.2554, Perplexity: 25.93
+Better Dev Loss: 3.1940. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_239.mdl
+Epoch 238 Done
+Epoch [240/400], Step[0/127], Loss: 3.2517, Perplexity: 25.84
+Better Dev Loss: 3.1903. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_240.mdl
+Epoch 239 Done
+Epoch [241/400], Step[0/127], Loss: 3.2481, Perplexity: 25.74
+Better Dev Loss: 3.1866. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_241.mdl
+Epoch 240 Done
+Epoch [242/400], Step[0/127], Loss: 3.2444, Perplexity: 25.65
+Better Dev Loss: 3.1830. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_242.mdl
+Epoch 241 Done
+Epoch [243/400], Step[0/127], Loss: 3.2408, Perplexity: 25.56
+Better Dev Loss: 3.1793. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_243.mdl
+Epoch 242 Done
+Epoch [244/400], Step[0/127], Loss: 3.2373, Perplexity: 25.46
+Better Dev Loss: 3.1757. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_244.mdl
+Epoch 243 Done
+Epoch [245/400], Step[0/127], Loss: 3.2337, Perplexity: 25.37
+Better Dev Loss: 3.1722. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_245.mdl
+Epoch 244 Done
+Epoch [246/400], Step[0/127], Loss: 3.2302, Perplexity: 25.29
+Better Dev Loss: 3.1687. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_246.mdl
+Epoch 245 Done
+Epoch [247/400], Step[0/127], Loss: 3.2267, Perplexity: 25.20
+Better Dev Loss: 3.1652. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_247.mdl
+Epoch 246 Done
+Epoch [248/400], Step[0/127], Loss: 3.2233, Perplexity: 25.11
+Better Dev Loss: 3.1617. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_248.mdl
+Epoch 247 Done
+Epoch [249/400], Step[0/127], Loss: 3.2199, Perplexity: 25.03
+Better Dev Loss: 3.1583. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_249.mdl
+Epoch 248 Done
+Epoch [250/400], Step[0/127], Loss: 3.2165, Perplexity: 24.94
+Better Dev Loss: 3.1549. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_250.mdl
+Epoch 249 Done
+Epoch [251/400], Step[0/127], Loss: 3.2131, Perplexity: 24.86
+Better Dev Loss: 3.1515. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_251.mdl
+Epoch 250 Done
+Epoch [252/400], Step[0/127], Loss: 3.2098, Perplexity: 24.77
+Better Dev Loss: 3.1482. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_252.mdl
+Epoch 251 Done
+Epoch [253/400], Step[0/127], Loss: 3.2065, Perplexity: 24.69
+Better Dev Loss: 3.1449. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_253.mdl
+Epoch 252 Done
+Epoch [254/400], Step[0/127], Loss: 3.2033, Perplexity: 24.61
+Better Dev Loss: 3.1416. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_254.mdl
+Epoch 253 Done
+Epoch [255/400], Step[0/127], Loss: 3.2000, Perplexity: 24.53
+Better Dev Loss: 3.1383. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_255.mdl
+Epoch 254 Done
+Epoch [256/400], Step[0/127], Loss: 3.1968, Perplexity: 24.45
+Better Dev Loss: 3.1351. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_256.mdl
+Epoch 255 Done
+Epoch [257/400], Step[0/127], Loss: 3.1937, Perplexity: 24.38
+Better Dev Loss: 3.1320. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_257.mdl
+Epoch 256 Done
+Epoch [258/400], Step[0/127], Loss: 3.1905, Perplexity: 24.30
+Better Dev Loss: 3.1288. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_258.mdl
+Epoch 257 Done
+Epoch [259/400], Step[0/127], Loss: 3.1874, Perplexity: 24.23
+Better Dev Loss: 3.1257. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_259.mdl
+Epoch 258 Done
+Epoch [260/400], Step[0/127], Loss: 3.1843, Perplexity: 24.15
+Better Dev Loss: 3.1226. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_260.mdl
+Epoch 259 Done
+Epoch [261/400], Step[0/127], Loss: 3.1813, Perplexity: 24.08
+Better Dev Loss: 3.1195. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_261.mdl
+Epoch 260 Done
+Epoch [262/400], Step[0/127], Loss: 3.1783, Perplexity: 24.01
+Better Dev Loss: 3.1165. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_262.mdl
+Epoch 261 Done
+Epoch [263/400], Step[0/127], Loss: 3.1753, Perplexity: 23.93
+Better Dev Loss: 3.1135. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_263.mdl
+Epoch 262 Done
+Epoch [264/400], Step[0/127], Loss: 3.1723, Perplexity: 23.86
+Better Dev Loss: 3.1105. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_264.mdl
+Epoch 263 Done
+Epoch [265/400], Step[0/127], Loss: 3.1694, Perplexity: 23.79
+Better Dev Loss: 3.1076. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_265.mdl
+Epoch 264 Done
+Epoch [266/400], Step[0/127], Loss: 3.1665, Perplexity: 23.72
+Better Dev Loss: 3.1047. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_266.mdl
+Epoch 265 Done
+Epoch [267/400], Step[0/127], Loss: 3.1636, Perplexity: 23.66
+Better Dev Loss: 3.1018. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_267.mdl
+Epoch 266 Done
+Epoch [268/400], Step[0/127], Loss: 3.1608, Perplexity: 23.59
+Better Dev Loss: 3.0990. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_268.mdl
+Epoch 267 Done
+Epoch [269/400], Step[0/127], Loss: 3.1580, Perplexity: 23.52
+Better Dev Loss: 3.0962. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_269.mdl
+Epoch 268 Done
+Epoch [270/400], Step[0/127], Loss: 3.1552, Perplexity: 23.46
+Better Dev Loss: 3.0934. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_270.mdl
+Epoch 269 Done
+Epoch [271/400], Step[0/127], Loss: 3.1525, Perplexity: 23.39
+Better Dev Loss: 3.0906. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_271.mdl
+Epoch 270 Done
+Epoch [272/400], Step[0/127], Loss: 3.1497, Perplexity: 23.33
+Better Dev Loss: 3.0879. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_272.mdl
+Epoch 271 Done
+Epoch [273/400], Step[0/127], Loss: 3.1470, Perplexity: 23.27
+Better Dev Loss: 3.0852. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_273.mdl
+Epoch 272 Done
+Epoch [274/400], Step[0/127], Loss: 3.1444, Perplexity: 23.21
+Better Dev Loss: 3.0826. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_274.mdl
+Epoch 273 Done
+Epoch [275/400], Step[0/127], Loss: 3.1418, Perplexity: 23.14
+Better Dev Loss: 3.0799. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_275.mdl
+Epoch 274 Done
+Epoch [276/400], Step[0/127], Loss: 3.1392, Perplexity: 23.08
+Better Dev Loss: 3.0773. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_276.mdl
+Epoch 275 Done
+Epoch [277/400], Step[0/127], Loss: 3.1366, Perplexity: 23.03
+Better Dev Loss: 3.0747. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_277.mdl
+Epoch 276 Done
+Epoch [278/400], Step[0/127], Loss: 3.1341, Perplexity: 22.97
+Better Dev Loss: 3.0722. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_278.mdl
+Epoch 277 Done
+Epoch [279/400], Step[0/127], Loss: 3.1316, Perplexity: 22.91
+Better Dev Loss: 3.0697. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_279.mdl
+Epoch 278 Done
+Epoch [280/400], Step[0/127], Loss: 3.1291, Perplexity: 22.85
+Better Dev Loss: 3.0672. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_280.mdl
+Epoch 279 Done
+Epoch [281/400], Step[0/127], Loss: 3.1266, Perplexity: 22.80
+Better Dev Loss: 3.0648. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_281.mdl
+Epoch 280 Done
+Epoch [282/400], Step[0/127], Loss: 3.1242, Perplexity: 22.74
+Better Dev Loss: 3.0623. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_282.mdl
+Epoch 281 Done
+Epoch [283/400], Step[0/127], Loss: 3.1218, Perplexity: 22.69
+Better Dev Loss: 3.0600. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_283.mdl
+Epoch 282 Done
+Epoch [284/400], Step[0/127], Loss: 3.1195, Perplexity: 22.63
+Better Dev Loss: 3.0576. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_284.mdl
+Epoch 283 Done
+Epoch [285/400], Step[0/127], Loss: 3.1172, Perplexity: 22.58
+Better Dev Loss: 3.0553. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_285.mdl
+Epoch 284 Done
+Epoch [286/400], Step[0/127], Loss: 3.1149, Perplexity: 22.53
+Better Dev Loss: 3.0530. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_286.mdl
+Epoch 285 Done
+Epoch [287/400], Step[0/127], Loss: 3.1126, Perplexity: 22.48
+Better Dev Loss: 3.0507. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_287.mdl
+Epoch 286 Done
+Epoch [288/400], Step[0/127], Loss: 3.1104, Perplexity: 22.43
+Better Dev Loss: 3.0485. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_288.mdl
+Epoch 287 Done
+Epoch [289/400], Step[0/127], Loss: 3.1082, Perplexity: 22.38
+Better Dev Loss: 3.0463. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_289.mdl
+Epoch 288 Done
+Epoch [290/400], Step[0/127], Loss: 3.1060, Perplexity: 22.33
+Better Dev Loss: 3.0441. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_290.mdl
+Epoch 289 Done
+Epoch [291/400], Step[0/127], Loss: 3.1039, Perplexity: 22.28
+Better Dev Loss: 3.0419. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_291.mdl
+Epoch 290 Done
+Epoch [292/400], Step[0/127], Loss: 3.1017, Perplexity: 22.24
+Better Dev Loss: 3.0398. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_292.mdl
+Epoch 291 Done
+Epoch [293/400], Step[0/127], Loss: 3.0997, Perplexity: 22.19
+Better Dev Loss: 3.0377. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_293.mdl
+Epoch 292 Done
+Epoch [294/400], Step[0/127], Loss: 3.0976, Perplexity: 22.15
+Better Dev Loss: 3.0357. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_294.mdl
+Epoch 293 Done
+Epoch [295/400], Step[0/127], Loss: 3.0956, Perplexity: 22.10
+Better Dev Loss: 3.0337. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_295.mdl
+Epoch 294 Done
+Epoch [296/400], Step[0/127], Loss: 3.0936, Perplexity: 22.06
+Better Dev Loss: 3.0317. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_296.mdl
+Epoch 295 Done
+Epoch [297/400], Step[0/127], Loss: 3.0916, Perplexity: 22.01
+Better Dev Loss: 3.0297. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_297.mdl
+Epoch 296 Done
+Epoch [298/400], Step[0/127], Loss: 3.0897, Perplexity: 21.97
+Better Dev Loss: 3.0278. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_298.mdl
+Epoch 297 Done
+Epoch [299/400], Step[0/127], Loss: 3.0878, Perplexity: 21.93
+Better Dev Loss: 3.0259. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_299.mdl
+Epoch 298 Done
+Epoch [300/400], Step[0/127], Loss: 3.0860, Perplexity: 21.89
+Better Dev Loss: 3.0240. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_300.mdl
+Epoch 299 Done
+Epoch [301/400], Step[0/127], Loss: 3.0841, Perplexity: 21.85
+Better Dev Loss: 3.0222. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_301.mdl
+Epoch 300 Done
+Epoch [302/400], Step[0/127], Loss: 3.0823, Perplexity: 21.81
+Better Dev Loss: 3.0204. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_302.mdl
+Epoch 301 Done
+Epoch [303/400], Step[0/127], Loss: 3.0806, Perplexity: 21.77
+Better Dev Loss: 3.0186. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_303.mdl
+Epoch 302 Done
+Epoch [304/400], Step[0/127], Loss: 3.0788, Perplexity: 21.73
+Better Dev Loss: 3.0168. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_304.mdl
+Epoch 303 Done
+Epoch [305/400], Step[0/127], Loss: 3.0771, Perplexity: 21.70
+Better Dev Loss: 3.0151. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_305.mdl
+Epoch 304 Done
+Epoch [306/400], Step[0/127], Loss: 3.0754, Perplexity: 21.66
+Better Dev Loss: 3.0134. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_306.mdl
+Epoch 305 Done
+Epoch [307/400], Step[0/127], Loss: 3.0738, Perplexity: 21.62
+Better Dev Loss: 3.0118. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_307.mdl
+Epoch 306 Done
+Epoch [308/400], Step[0/127], Loss: 3.0722, Perplexity: 21.59
+Better Dev Loss: 3.0102. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_308.mdl
+Epoch 307 Done
+Epoch [309/400], Step[0/127], Loss: 3.0706, Perplexity: 21.55
+Better Dev Loss: 3.0086. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_309.mdl
+Epoch 308 Done
+Epoch [310/400], Step[0/127], Loss: 3.0690, Perplexity: 21.52
+Better Dev Loss: 3.0070. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_310.mdl
+Epoch 309 Done
+Epoch [311/400], Step[0/127], Loss: 3.0675, Perplexity: 21.49
+Better Dev Loss: 3.0055. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_311.mdl
+Epoch 310 Done
+Epoch [312/400], Step[0/127], Loss: 3.0660, Perplexity: 21.46
+Better Dev Loss: 3.0040. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_312.mdl
+Epoch 311 Done
+Epoch [313/400], Step[0/127], Loss: 3.0646, Perplexity: 21.43
+Better Dev Loss: 3.0026. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_313.mdl
+Epoch 312 Done
+Epoch [314/400], Step[0/127], Loss: 3.0632, Perplexity: 21.40
+Better Dev Loss: 3.0011. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_314.mdl
+Epoch 313 Done
+Epoch [315/400], Step[0/127], Loss: 3.0618, Perplexity: 21.37
+Better Dev Loss: 2.9998. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_315.mdl
+Epoch 314 Done
+Epoch [316/400], Step[0/127], Loss: 3.0604, Perplexity: 21.34
+Better Dev Loss: 2.9984. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_316.mdl
+Epoch 315 Done
+Epoch [317/400], Step[0/127], Loss: 3.0591, Perplexity: 21.31
+Better Dev Loss: 2.9971. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_317.mdl
+Epoch 316 Done
+Epoch [318/400], Step[0/127], Loss: 3.0578, Perplexity: 21.28
+Better Dev Loss: 2.9958. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_318.mdl
+Epoch 317 Done
+Epoch [319/400], Step[0/127], Loss: 3.0566, Perplexity: 21.25
+Better Dev Loss: 2.9945. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_319.mdl
+Epoch 318 Done
+Epoch [320/400], Step[0/127], Loss: 3.0553, Perplexity: 21.23
+Better Dev Loss: 2.9933. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_320.mdl
+Epoch 319 Done
+Epoch [321/400], Step[0/127], Loss: 3.0542, Perplexity: 21.20
+Better Dev Loss: 2.9921. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_321.mdl
+Epoch 320 Done
+Epoch [322/400], Step[0/127], Loss: 3.0530, Perplexity: 21.18
+Better Dev Loss: 2.9909. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_322.mdl
+Epoch 321 Done
+Epoch [323/400], Step[0/127], Loss: 3.0519, Perplexity: 21.15
+Better Dev Loss: 2.9898. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_323.mdl
+Epoch 322 Done
+Epoch [324/400], Step[0/127], Loss: 3.0508, Perplexity: 21.13
+Better Dev Loss: 2.9887. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_324.mdl
+Epoch 323 Done
+Epoch [325/400], Step[0/127], Loss: 3.0497, Perplexity: 21.11
+Better Dev Loss: 2.9876. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_325.mdl
+Epoch 324 Done
+Epoch [326/400], Step[0/127], Loss: 3.0487, Perplexity: 21.09
+Better Dev Loss: 2.9865. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_326.mdl
+Epoch 325 Done
+Epoch [327/400], Step[0/127], Loss: 3.0477, Perplexity: 21.07
+Better Dev Loss: 2.9855. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_327.mdl
+Epoch 326 Done
+Epoch [328/400], Step[0/127], Loss: 3.0467, Perplexity: 21.05
+Better Dev Loss: 2.9845. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_328.mdl
+Epoch 327 Done
+Epoch [329/400], Step[0/127], Loss: 3.0457, Perplexity: 21.03
+Better Dev Loss: 2.9836. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_329.mdl
+Epoch 328 Done
+Epoch [330/400], Step[0/127], Loss: 3.0448, Perplexity: 21.01
+Better Dev Loss: 2.9827. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_330.mdl
+Epoch 329 Done
+Epoch [331/400], Step[0/127], Loss: 3.0439, Perplexity: 20.99
+Better Dev Loss: 2.9818. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_331.mdl
+Epoch 330 Done
+Epoch [332/400], Step[0/127], Loss: 3.0431, Perplexity: 20.97
+Better Dev Loss: 2.9809. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_332.mdl
+Epoch 331 Done
+Epoch [333/400], Step[0/127], Loss: 3.0422, Perplexity: 20.95
+Better Dev Loss: 2.9801. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_333.mdl
+Epoch 332 Done
+Epoch [334/400], Step[0/127], Loss: 3.0414, Perplexity: 20.94
+Better Dev Loss: 2.9792. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_334.mdl
+Epoch 333 Done
+Epoch [335/400], Step[0/127], Loss: 3.0406, Perplexity: 20.92
+Better Dev Loss: 2.9784. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_335.mdl
+Epoch 334 Done
+Epoch [336/400], Step[0/127], Loss: 3.0399, Perplexity: 20.90
+Better Dev Loss: 2.9777. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_336.mdl
+Epoch 335 Done
+Epoch [337/400], Step[0/127], Loss: 3.0391, Perplexity: 20.89
+Better Dev Loss: 2.9769. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_337.mdl
+Epoch 336 Done
+Epoch [338/400], Step[0/127], Loss: 3.0384, Perplexity: 20.87
+Better Dev Loss: 2.9762. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_338.mdl
+Epoch 337 Done
+Epoch [339/400], Step[0/127], Loss: 3.0377, Perplexity: 20.86
+Better Dev Loss: 2.9755. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_339.mdl
+Epoch 338 Done
+Epoch [340/400], Step[0/127], Loss: 3.0370, Perplexity: 20.84
+Better Dev Loss: 2.9748. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_340.mdl
+Epoch 339 Done
+Epoch [341/400], Step[0/127], Loss: 3.0364, Perplexity: 20.83
+Better Dev Loss: 2.9741. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_341.mdl
+Epoch 340 Done
+Epoch [342/400], Step[0/127], Loss: 3.0357, Perplexity: 20.82
+Better Dev Loss: 2.9735. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_342.mdl
+Epoch 341 Done
+Epoch [343/400], Step[0/127], Loss: 3.0351, Perplexity: 20.80
+Better Dev Loss: 2.9728. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_343.mdl
+Epoch 342 Done
+Epoch [344/400], Step[0/127], Loss: 3.0345, Perplexity: 20.79
+Better Dev Loss: 2.9722. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_344.mdl
+Epoch 343 Done
+Epoch [345/400], Step[0/127], Loss: 3.0339, Perplexity: 20.78
+Better Dev Loss: 2.9716. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_345.mdl
+Epoch 344 Done
+Epoch [346/400], Step[0/127], Loss: 3.0333, Perplexity: 20.77
+Better Dev Loss: 2.9710. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_346.mdl
+Epoch 345 Done
+Epoch [347/400], Step[0/127], Loss: 3.0327, Perplexity: 20.75
+Better Dev Loss: 2.9704. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_347.mdl
+Epoch 346 Done
+Epoch [348/400], Step[0/127], Loss: 3.0322, Perplexity: 20.74
+Better Dev Loss: 2.9698. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_348.mdl
+Epoch 347 Done
+Epoch [349/400], Step[0/127], Loss: 3.0316, Perplexity: 20.73
+Better Dev Loss: 2.9693. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_349.mdl
+Epoch 348 Done
+Epoch [350/400], Step[0/127], Loss: 3.0311, Perplexity: 20.72
+Better Dev Loss: 2.9687. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_350.mdl
+Epoch 349 Done
+Epoch [351/400], Step[0/127], Loss: 3.0305, Perplexity: 20.71
+Better Dev Loss: 2.9682. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_351.mdl
+Epoch 350 Done
+Epoch [352/400], Step[0/127], Loss: 3.0300, Perplexity: 20.70
+Better Dev Loss: 2.9677. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_352.mdl
+Epoch 351 Done
+Epoch [353/400], Step[0/127], Loss: 3.0295, Perplexity: 20.69
+Better Dev Loss: 2.9672. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_353.mdl
+Epoch 352 Done
+Epoch [354/400], Step[0/127], Loss: 3.0290, Perplexity: 20.68
+Better Dev Loss: 2.9667. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_354.mdl
+Epoch 353 Done
+Epoch [355/400], Step[0/127], Loss: 3.0285, Perplexity: 20.67
+Better Dev Loss: 2.9662. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_355.mdl
+Epoch 354 Done
+Epoch [356/400], Step[0/127], Loss: 3.0280, Perplexity: 20.66
+Better Dev Loss: 2.9657. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_356.mdl
+Epoch 355 Done
+Epoch [357/400], Step[0/127], Loss: 3.0276, Perplexity: 20.65
+Better Dev Loss: 2.9652. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_357.mdl
+Epoch 356 Done
+Epoch [358/400], Step[0/127], Loss: 3.0271, Perplexity: 20.64
+Better Dev Loss: 2.9647. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_358.mdl
+Epoch 357 Done
+Epoch [359/400], Step[0/127], Loss: 3.0266, Perplexity: 20.63
+Better Dev Loss: 2.9643. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_359.mdl
+Epoch 358 Done
+Epoch [360/400], Step[0/127], Loss: 3.0262, Perplexity: 20.62
+Better Dev Loss: 2.9638. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_360.mdl
+Epoch 359 Done
+Epoch [361/400], Step[0/127], Loss: 3.0257, Perplexity: 20.61
+Better Dev Loss: 2.9634. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_361.mdl
+Epoch 360 Done
+Epoch [362/400], Step[0/127], Loss: 3.0253, Perplexity: 20.60
+Better Dev Loss: 2.9630. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_362.mdl
+Epoch 361 Done
+Epoch [363/400], Step[0/127], Loss: 3.0249, Perplexity: 20.59
+Better Dev Loss: 2.9625. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_363.mdl
+Epoch 362 Done
+Epoch [364/400], Step[0/127], Loss: 3.0244, Perplexity: 20.58
+Better Dev Loss: 2.9621. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_364.mdl
+Epoch 363 Done
+Epoch [365/400], Step[0/127], Loss: 3.0240, Perplexity: 20.57
+Better Dev Loss: 2.9617. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_365.mdl
+Epoch 364 Done
+Epoch [366/400], Step[0/127], Loss: 3.0236, Perplexity: 20.57
+Better Dev Loss: 2.9613. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_366.mdl
+Epoch 365 Done
+Epoch [367/400], Step[0/127], Loss: 3.0232, Perplexity: 20.56
+Better Dev Loss: 2.9609. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_367.mdl
+Epoch 366 Done
+Epoch [368/400], Step[0/127], Loss: 3.0228, Perplexity: 20.55
+Better Dev Loss: 2.9605. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_368.mdl
+Epoch 367 Done
+Epoch [369/400], Step[0/127], Loss: 3.0224, Perplexity: 20.54
+Better Dev Loss: 2.9601. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_369.mdl
+Epoch 368 Done
+Epoch [370/400], Step[0/127], Loss: 3.0220, Perplexity: 20.53
+Better Dev Loss: 2.9597. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_370.mdl
+Epoch 369 Done
+Epoch [371/400], Step[0/127], Loss: 3.0216, Perplexity: 20.52
+Better Dev Loss: 2.9593. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_371.mdl
+Epoch 370 Done
+Epoch [372/400], Step[0/127], Loss: 3.0212, Perplexity: 20.52
+Better Dev Loss: 2.9589. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_372.mdl
+Epoch 371 Done
+Epoch [373/400], Step[0/127], Loss: 3.0209, Perplexity: 20.51
+Better Dev Loss: 2.9586. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_373.mdl
+Epoch 372 Done
+Epoch [374/400], Step[0/127], Loss: 3.0205, Perplexity: 20.50
+Better Dev Loss: 2.9582. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_374.mdl
+Epoch 373 Done
+Epoch [375/400], Step[0/127], Loss: 3.0201, Perplexity: 20.49
+Better Dev Loss: 2.9579. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_375.mdl
+Epoch 374 Done
+Epoch [376/400], Step[0/127], Loss: 3.0198, Perplexity: 20.49
+Better Dev Loss: 2.9575. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_376.mdl
+Epoch 375 Done
+Epoch [377/400], Step[0/127], Loss: 3.0194, Perplexity: 20.48
+Better Dev Loss: 2.9572. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_377.mdl
+Epoch 376 Done
+Epoch [378/400], Step[0/127], Loss: 3.0191, Perplexity: 20.47
+Better Dev Loss: 2.9568. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_378.mdl
+Epoch 377 Done
+Epoch [379/400], Step[0/127], Loss: 3.0187, Perplexity: 20.47
+Better Dev Loss: 2.9565. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_379.mdl
+Epoch 378 Done
+Epoch [380/400], Step[0/127], Loss: 3.0184, Perplexity: 20.46
+Better Dev Loss: 2.9562. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_380.mdl
+Epoch 379 Done
+Epoch [381/400], Step[0/127], Loss: 3.0180, Perplexity: 20.45
+Better Dev Loss: 2.9558. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_381.mdl
+Epoch 380 Done
+Epoch [382/400], Step[0/127], Loss: 3.0177, Perplexity: 20.44
+Better Dev Loss: 2.9555. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_382.mdl
+Epoch 381 Done
+Epoch [383/400], Step[0/127], Loss: 3.0174, Perplexity: 20.44
+Better Dev Loss: 2.9552. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_383.mdl
+Epoch 382 Done
+Epoch [384/400], Step[0/127], Loss: 3.0170, Perplexity: 20.43
+Better Dev Loss: 2.9549. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_384.mdl
+Epoch 383 Done
+Epoch [385/400], Step[0/127], Loss: 3.0167, Perplexity: 20.42
+Better Dev Loss: 2.9546. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_385.mdl
+Epoch 384 Done
+Epoch [386/400], Step[0/127], Loss: 3.0164, Perplexity: 20.42
+Better Dev Loss: 2.9543. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_386.mdl
+Epoch 385 Done
+Epoch [387/400], Step[0/127], Loss: 3.0161, Perplexity: 20.41
+Better Dev Loss: 2.9540. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_387.mdl
+Epoch 386 Done
+Epoch [388/400], Step[0/127], Loss: 3.0158, Perplexity: 20.41
+Better Dev Loss: 2.9537. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_388.mdl
+Epoch 387 Done
+Epoch [389/400], Step[0/127], Loss: 3.0155, Perplexity: 20.40
+Better Dev Loss: 2.9534. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_389.mdl
+Epoch 388 Done
+Epoch [390/400], Step[0/127], Loss: 3.0152, Perplexity: 20.39
+Better Dev Loss: 2.9531. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_390.mdl
+Epoch 389 Done
+Epoch [391/400], Step[0/127], Loss: 3.0149, Perplexity: 20.39
+Better Dev Loss: 2.9528. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_391.mdl
+Epoch 390 Done
+Epoch [392/400], Step[0/127], Loss: 3.0146, Perplexity: 20.38
+Better Dev Loss: 2.9525. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_392.mdl
+Epoch 391 Done
+Epoch [393/400], Step[0/127], Loss: 3.0143, Perplexity: 20.37
+Better Dev Loss: 2.9523. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_393.mdl
+Epoch 392 Done
+Epoch [394/400], Step[0/127], Loss: 3.0140, Perplexity: 20.37
+Better Dev Loss: 2.9520. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_394.mdl
+Epoch 393 Done
+Epoch [395/400], Step[0/127], Loss: 3.0137, Perplexity: 20.36
+Better Dev Loss: 2.9517. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_395.mdl
+Epoch 394 Done
+Epoch [396/400], Step[0/127], Loss: 3.0134, Perplexity: 20.36
+Better Dev Loss: 2.9515. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_396.mdl
+Epoch 395 Done
+Epoch [397/400], Step[0/127], Loss: 3.0132, Perplexity: 20.35
+Better Dev Loss: 2.9512. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_397.mdl
+Epoch 396 Done
+Epoch [398/400], Step[0/127], Loss: 3.0129, Perplexity: 20.35
+Better Dev Loss: 2.9510. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_398.mdl
+Epoch 397 Done
+Epoch [399/400], Step[0/127], Loss: 3.0126, Perplexity: 20.34
+Better Dev Loss: 2.9507. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_399.mdl
+Epoch 398 Done
+Epoch [400/400], Step[0/127], Loss: 3.0124, Perplexity: 20.34
+Better Dev Loss: 2.9505. Saved in ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_400.mdl
+Epoch 399 Done
+Start at : 2020-04-18 12:38:38.710121
+All Done! : 2020-04-18 12:45:30.947354
+Model Info:
+Filename : ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_400.mdl Loss : 2.950 
+Filename : ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_399.mdl Loss : 2.951 
+Filename : ./ms_lstm_base_model_0418a/model_4\ms_model_lstm_1_bs_32_lr_1_embed_8_hidden_8_epoch_398.mdl Loss : 2.951 
